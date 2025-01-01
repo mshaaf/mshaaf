@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muhammad, a student at Patriot High School and an aspiring Cyber Security Engineer. </h1>
+<h1>Hi, I'm Muhammad, a student at George Mason university and aspiring Security Engineer </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -6,28 +6,13 @@
 
 <h2> My Certifications: </h2>
 
-  - Comp Tia Security+(Expected June 2024)
+  - Comp Tia Security+
 
 
 
 
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/muhammadshaaf
 
 <!--
  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
